@@ -1,0 +1,1 @@
+..\nask.exe helloos_raw2.nas helloos_raw2.img
